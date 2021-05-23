@@ -1,5 +1,5 @@
 # DesiredDateFormat
-This module will convert any format of date into the desired date format 
+This module will convert any format of date into the desired date format.
 User need to pass 2 arguments, the first argument will be the date and the second one is the desired date format which the user wants to receive output. 
 ### for example:
 > convert("2021/05/14","dd/mm/yy")
